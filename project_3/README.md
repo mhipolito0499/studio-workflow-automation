@@ -2,7 +2,7 @@
 Address the problem of visualizing the marked shots for reviewers, editorials, etc to use.
 
 ## What the script does:
-* This script processes a given video file to extract specific frames for thumbnail creation. Frames to be extracted
+* Processes a given video file to extract specific frames for thumbnail creation. Frames to be extracted
 are specified by pulling marked shots stored in MongoDB database from previous project/script (Project 2)
 * Prepares an Excel workbook/spreadsheet that contains information about the pulled frames/thumbnail.
 The information includes: Folder location, Frame ranges, Timecode of frame relative to video, and middle-most frame for thumbnail.
