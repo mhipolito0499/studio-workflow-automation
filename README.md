@@ -12,6 +12,6 @@ Additionally, these projects were assigned and distributed with the main course 
 * Avoid Senioritis
 
 ### Takeaways from projects and course in general
-  The course in general introduced new ways to utilize Python for its scripting abilities. These include processing text and video files, handling command-line arguments, parsing, and more. The course also introduced a basic level understanding of databases, from setting the databases up to performing CRUD operations.<br />
+  The course in general introduced ways to utilize Python for its scripting abilities. This includes processing text and video files, handling command-line arguments, parsing, and more. The course also introduced a basic level understanding of databases, from setting the databases up to performing CRUD operations.<br />
   
-  Aside from the technology used, we also learned the workflows that can be present in a studio environment, and how automation scripting can help solve workflow problems. For example, manually checking locations of files/folders across different storage spaces or assisting with more manual tasks like marking shots for editing are ways automation scripting can alleviate workflow problems among studio/facility environments.
+  Technology aside, we also learned the workflows that can be present in a studio environment, and how automation scripting can help solve workflow problems. For example, manually checking locations of files/folders across different storage spaces or assisting with more manual tasks like marking shots for editing are ways automation scripting can alleviate workflow problems among studio/facility environments.
