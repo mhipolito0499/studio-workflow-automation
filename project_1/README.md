@@ -2,7 +2,7 @@
 Introduce Python, its libraries, and its scripting abilities.
 
 ## What the script does:
-* Script involves file ingestion, parsing, and manipulation.
+* File ingestion, parsing, and data manipulation.
 
 ## Results:
 All of the requirements of the project were not met. While the script ingests, parses, and manipulates the given files, it does not export to a csv file.
