@@ -1,6 +1,6 @@
 # Studio Workflow Automation
 
-These series of projects are a culmination of lectures and assignments given during the course of the spring semester for COMP 467 - Multimedia Systems Design.
+This series of projects are a culmination of lectures and assignments given during the course of the spring semester for COMP 467 - Multimedia Systems Design.
 
 ### Course Main Goals and Objectives
 Additionally, these projects were assigned and distributed with the main course goals in mind:
